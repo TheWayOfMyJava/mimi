@@ -12,5 +12,6 @@ public class MyTest {
         System.out.println("第二次提交GIT");
 
         System.out.println("hot-fix合并");
+        System.out.println("push test");
     }
 }
