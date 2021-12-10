@@ -8,5 +8,7 @@ public class MyTest {
     public void testMD5(){
         String mi = MD5Util.getMD5("000000");
         System.out.println(mi);
+
+        System.out.println("hot-fix合并");
     }
 }
